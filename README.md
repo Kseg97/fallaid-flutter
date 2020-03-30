@@ -1,16 +1,15 @@
-# fallaid
+# Fallaid Fkutter
 
-Fallaid app to monitor fall detection.
+Aplicación del proyecto Fallaid desarrollada en Flutter. 
 
-## Getting Started
+## Instalación 🤬
 
-This project is a starting point for a Flutter application.
+Descarga o clona este repositorio en tu escritorio o lugar de trabajo. Para clonar ejecuta:
 
-A few resources to get you started if this is your first Flutter project:
+`git clone https://github.com/Kseg97/fallaid-project`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Para descargar solo presiona sobre el botón de descarga y descomprime el archivo.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+__Para instalar instalar Flutter y usar la aplicación__, sigue los pasos del proyecto principal en:
+https://github.com/Kseg97/fallaid-project#firebase
+
